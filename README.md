@@ -1,6 +1,6 @@
 # Hi, I'm Karthik
 
-CS + Math @ Carnegie Mellon University
+Math + CS @ Carnegie Mellon University
 
 Currently building:
 - [bolt](https://github.com/kthallam167/bolt) — Concurrent key-value store in Go
